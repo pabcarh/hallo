@@ -1,0 +1,12 @@
+Package: hallo
+Title: My second test
+Version: 1.0.0
+Authors@R: person("Pablo", "Carhuapoma", , "p.carhuapoma@cgiar.org", role = c("aut", "cre"))
+Description: What the package does (one paragraph)
+Depends: R (>= 3.0.2)
+License: GPL-3
+LazyData: true
+URL: https://github.com/pabcarh/hallo
+BugReports: https://github.com/pabcarh/hallo/issues
+Suggests: knitr,testthat
+VignetteBuilder: knitr
